@@ -21,6 +21,10 @@ Above command helps to run the application by default
 ```
 http://localhost:3000
 ```
+## Tech Stack
+UI - NestJS
+API - .NET 6 (MediatR )
+
     
 ## 🚀 About Me
 I'm a full stack developer...
